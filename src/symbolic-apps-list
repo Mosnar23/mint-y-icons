@@ -238,6 +238,7 @@ desktop-environment-xfce.png <- xfce4-panel-menu.png
 desktop-environment-xfce.png <- xfce4-panel.png
 desktop-magnifier.png <- kmag.png
 desktop-tweaks.png <- wmtweaks.png
+dev.vencord.Vesktop.png <- vesktop.png
 devhelp.png <- org.gnome.Devhelp.png
 digikam.png <- photolayoutseditor.png
 direct-connect.png <- linuxdcpp.png
@@ -1339,6 +1340,7 @@ web-spotify.png <- chrome-cnkjkdjlofllcpbemipjbcpfnglbgieh-Default.png
 web-spotify.png <- com.spotify.Client.png
 web-spotify.png <- spotify-client.png
 web-spotify.png <- spotify-exe.png
+web-spotify.png <- spotify-launcher.png
 web-spotify.png <- spotify-linux-48x48.png
 web-spotify.png <- spotify.png
 web-teams.png <- Teams-teams.live.com.png
